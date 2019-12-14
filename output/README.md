@@ -1,0 +1,1 @@
+run "python3 test.py" to test score of baseline and three models, note that this file needs sklearn to run.

@@ -1,0 +1,10 @@
+setuptools
+twython
+fastai
+torch
+notebook
+matplotlib
+IPython
+geopy
+scikit-learn
+plotly
