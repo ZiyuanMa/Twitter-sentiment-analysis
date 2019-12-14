@@ -1,5 +1,6 @@
-This is a SFU cmpt413 nlp final project: ensemble model for sentiment analysis in Twitter
-For more info about model please look at project.ipynb
+# Ensemble model for sentiment analysis in Twitter
+
+This is a SFU cmpt413 nlp final project,the project is based on SemEval 2017 task 4, for more info about model please look at project.ipynb
 
 
 ## Data Processing
