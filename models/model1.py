@@ -1,3 +1,6 @@
+
+# Bi-LSTM with attention
+
 import os, sys
 import warnings
 warnings.filterwarnings('ignore')

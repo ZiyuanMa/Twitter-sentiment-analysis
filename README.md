@@ -1,7 +1,12 @@
 # Ensemble model for sentiment analysis in Twitter
 
-This is a SFU cmpt413 nlp final project,the project is based on SemEval 2017 task 4, for more info about model please look at project.ipynb
+This is a SFU cmpt413 nlp final project,the project is based on SemEval 2017 task 4, for the details about model please look at project.ipynb
 
+## Files Distribution
+data: dataset used for training and testing
+models: code for two models 
+output: output of testing data from each model
+Twitter_analysis: module package that combine Twitter API and and our model to do real-time tweets sentiment analysis
 
 ## Data Processing
 Read "project.ipynb" Data part to find where to download all of data, put all of data(there should be 14 files) in "data/raw_data", then run "clean_data.ipynb" in "data" folder to do data preprocessing. The output data should be in "data/modified_data".
